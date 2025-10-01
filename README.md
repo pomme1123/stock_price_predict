@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+![promotion.pdf](https://github.com/user-attachments/files/22632206/promotion.pdf)
+
 
 ## 目次
 
